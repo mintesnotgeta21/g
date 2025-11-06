@@ -1,2 +1,2 @@
 this is git class
-my name is git
+hello there
